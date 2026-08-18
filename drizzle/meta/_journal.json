@@ -1,0 +1,90 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1786813625093,
+      "tag": "0000_lucky_warstar",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1786814546688,
+      "tag": "0001_shocking_hannibal_king",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1786815011062,
+      "tag": "0002_absurd_true_believers",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1786815375694,
+      "tag": "0003_lyrical_forge",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1786819109058,
+      "tag": "0004_fantastic_speedball",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1786819610554,
+      "tag": "0005_typical_agent_zero",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1786820399361,
+      "tag": "0006_sweet_beyonder",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1786827988240,
+      "tag": "0007_thankful_violations",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1786829400000,
+      "tag": "0008_reset_manager_pin_hash",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1786910800000,
+      "tag": "0009_restore_melvin_manager",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "6",
+      "when": 1786913378466,
+      "tag": "0010_legal_sunfire",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "6",
+      "when": 1787007697410,
+      "tag": "0011_add_invoicing",
+      "breakpoints": true
+    }
+  ]
+}

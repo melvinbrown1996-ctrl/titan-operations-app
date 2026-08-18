@@ -1,0 +1,1 @@
+ALTER TABLE `jobs` ADD `damage_notes` text DEFAULT '' NOT NULL;

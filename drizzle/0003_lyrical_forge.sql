@@ -1,0 +1,1 @@
+ALTER TABLE `jobs` ADD `technician_name` text DEFAULT '' NOT NULL;
