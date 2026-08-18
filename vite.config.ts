@@ -7,7 +7,7 @@ import { defineConfig } from "vite";
 // which only existed to let that platform's control plane inject binding
 // values at deploy time and is no longer needed now that this app deploys
 // straight to Cloudflare.
-const D1_DATABASE_ID = "e2f568b2-8d86-487f-ba99-178ae9246387";
+const D1_DATABASE_ID = "cf54711f-f131-4aee-972b-187a88d8879b";
 
 // macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.
 const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === "seatbelt";
