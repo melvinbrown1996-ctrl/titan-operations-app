@@ -14,7 +14,7 @@ const isCodexSeatbeltSandbox = process.env.CODEX_SANDBOX === "seatbelt";
 
 const localBindingConfig = {
   name: "titan-operations-app",
-  account_id: "3b50dec922eceb1a8ff01a1c3a2ccb83",
+  account_id: "85c84a0a40264ed2501062f2e9721524",
   main: "./worker/index.ts",
   compatibility_flags: ["nodejs_compat"],
   d1_databases: [
